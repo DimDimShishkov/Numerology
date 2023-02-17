@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Numerology/static/css/main.ee63acd9.css",
+    "main.js": "/Numerology/static/js/main.7c1cf1de.js",
+    "static/media/numbers.png": "/Numerology/static/media/numbers.f73b4427ca7634055a12.png",
+    "static/media/Pythagoras Picture.png": "/Numerology/static/media/Pythagoras Picture.17064675878634a9b2b4.png",
+    "static/media/header__logo.svg": "/Numerology/static/media/header__logo.8a5133ac5305ae602d5142f4ea4ea16d.svg",
+    "index.html": "/Numerology/index.html",
+    "main.ee63acd9.css.map": "/Numerology/static/css/main.ee63acd9.css.map",
+    "main.7c1cf1de.js.map": "/Numerology/static/js/main.7c1cf1de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee63acd9.css",
+    "static/js/main.7c1cf1de.js"
+  ]
+}
