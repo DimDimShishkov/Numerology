@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Numerology/static/css/main.ccf7086e.css",
-    "main.js": "/Numerology/static/js/main.b0ebb8b0.js",
+    "main.js": "/Numerology/static/js/main.4da1b8b9.js",
     "static/media/numbers.png": "/Numerology/static/media/numbers.f73b4427ca7634055a12.png",
     "static/media/Pythagoras Picture.png": "/Numerology/static/media/Pythagoras Picture.ba09d82c1ddbd0949fd5.png",
     "static/media/header__logo_tablet.svg": "/Numerology/static/media/header__logo_tablet.4d65be4e8047d10210bbaf7c4d7cded3.svg",
@@ -13,10 +13,10 @@
     "static/media/burger.svg": "/Numerology/static/media/burger.224bca5528153460c577.svg",
     "static/media/burger_active.svg": "/Numerology/static/media/burger_active.c04d234b26b7025820a3.svg",
     "main.ccf7086e.css.map": "/Numerology/static/css/main.ccf7086e.css.map",
-    "main.b0ebb8b0.js.map": "/Numerology/static/js/main.b0ebb8b0.js.map"
+    "main.4da1b8b9.js.map": "/Numerology/static/js/main.4da1b8b9.js.map"
   },
   "entrypoints": [
     "static/css/main.ccf7086e.css",
-    "static/js/main.b0ebb8b0.js"
+    "static/js/main.4da1b8b9.js"
   ]
 }
